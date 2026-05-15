@@ -43,7 +43,7 @@ python main.py
 ## 📁 Struktur Proyek
 
 ```text
-UTS/
+Kalkulator Probabilitas Kartu Yu-Gi-Oh!/
 ├── main.py              # Entry point utama untuk menjalankan aplikasi GUI
 ├── gui_app.py           # Kelas antarmuka pengguna berbasis customtkinter
 ├── api_client.py        # Klien HTTP untuk mengurus request ke YGOProDeck API
