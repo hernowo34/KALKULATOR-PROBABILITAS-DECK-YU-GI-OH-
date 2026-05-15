@@ -4,7 +4,7 @@ Aplikasi kalkulator probabilitas *Trading Card Game* (TCG) Yu-Gi-Oh! berbasis Py
 
 Aplikasi ini menggunakan perhitungan **Distribusi Hipergeometrik** untuk membantu pemain kompetitif merancang komposisi *deck* (*deck-building*) dengan menghitung peluang menarik (*draw*) kartu tertentu pada *starting hand*.
 
-![Tangkapan Layar Aplikasi][https://raw.githubusercontent.com/ygoprodeck/ygoprodeck/master/favicon.ico](https://github.com/hernowo34/KALKULATOR-PROBABILITAS-DECK-YU-GI-OH-/blob/main/Tangkapan%20Layar%20Aplikasi.png)
+![Tangkapan Layar Aplikasi][https://github.com/hernowo34/KALKULATOR-PROBABILITAS-DECK-YU-GI-OH-/blob/main/Tangkapan%20Layar%20Aplikasi.png]
 
 ## 🌟 Fitur Utama
 
