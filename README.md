@@ -4,7 +4,7 @@ Aplikasi kalkulator probabilitas *Trading Card Game* (TCG) Yu-Gi-Oh! berbasis Py
 
 Aplikasi ini menggunakan perhitungan **Distribusi Hipergeometrik** untuk membantu pemain kompetitif merancang komposisi *deck* (*deck-building*) dengan menghitung peluang menarik (*draw*) kartu tertentu pada *starting hand*.
 
-![Tangkapan Layar Aplikasi](https://raw.githubusercontent.com/ygoprodeck/ygoprodeck/master/favicon.ico) <!-- Ganti dengan URL screenshot asli jika diupload ke GitHub -->
+![Tangkapan Layar Aplikasi]([https://raw.githubusercontent.com/ygoprodeck/ygoprodeck/master/favicon.ico](https://github.com/hernowo34/KALKULATOR-PROBABILITAS-DECK-YU-GI-OH-/blob/main/Tangkapan%20Layar%20Aplikasi.png))
 
 ## 🌟 Fitur Utama
 
@@ -25,7 +25,7 @@ pip install customtkinter pillow requests
 
 ## 🚀 Cara Penggunaan
 
-1. Clone repositori ini atau *download* *source code* ke dalam satu folder (misalnya `UTS`).
+1. Clone repositori ini atau *download* *source code* ke dalam satu folder (misalnya `Kalkulator Probabilitas Kartu Yu-Go-Oh!`).
 2. Buka terminal atau *command prompt*, lalu arahkan ke *directory* proyek Anda.
 3. Jalankan titik masuk program (*entry point*):
 
