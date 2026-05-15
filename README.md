@@ -1,4 +1,4 @@
-# Kalkulator Probabilitas Deck Yu-Gi-Oh! (GUI Edition)
+# Kalkulator Probabilitas Deck Yu-Gi-Oh!
 
 Aplikasi kalkulator probabilitas *Trading Card Game* (TCG) Yu-Gi-Oh! berbasis Python yang dilengkapi dengan *Graphical User Interface* (GUI) interaktif dan terintegrasi langsung dengan **YGOProDeck API**.
 
