@@ -1,0 +1,317 @@
+{
+    "Effect Veiler": {
+        "tipe": "Monster",
+        "atribut": "LIGHT",
+        "level_rank": "1",
+        "atk": "0",
+        "def": "0",
+        "kuantitas": 2,
+        "kategori": "Main Deck"
+    },
+    "Droll & Lock Bird": {
+        "tipe": "Effect",
+        "atribut": "WIND",
+        "level_rank": "1",
+        "atk": "0",
+        "def": "0",
+        "kuantitas": 2,
+        "kategori": "Main Deck"
+    },
+    "Maxx \"C\"": {
+        "tipe": "Effect",
+        "atribut": "EARTH",
+        "level_rank": "2",
+        "atk": "500",
+        "def": "200",
+        "kuantitas": 1,
+        "kategori": "Main Deck"
+    },
+    "Dracotail Phryxul": {
+        "tipe": "Effect",
+        "atribut": "LIGHT",
+        "level_rank": "2",
+        "atk": "800",
+        "def": "1500",
+        "kuantitas": 1,
+        "kategori": "Main Deck"
+    },
+    "Ash Blossom & Joyous Spring": {
+        "tipe": "Monster",
+        "atribut": "FIRE",
+        "level_rank": "3",
+        "atk": "0",
+        "def": "1800",
+        "kuantitas": 3,
+        "kategori": "Main Deck"
+    },
+    "Ghost Belle & Haunted Mansion": {
+        "tipe": "Monster",
+        "atribut": "EARTH",
+        "level_rank": "3",
+        "atk": "0",
+        "def": "1800",
+        "kuantitas": 2,
+        "kategori": "Main Deck"
+    },
+    "Dracotail Mululu": {
+        "tipe": "Effect",
+        "atribut": "DARK",
+        "level_rank": "3",
+        "atk": "1100",
+        "def": "1500",
+        "kuantitas": 3,
+        "kategori": "Main Deck"
+    },
+    "Fallen of Albaz": {
+        "tipe": "Effect",
+        "atribut": "DARK",
+        "level_rank": "4",
+        "atk": "1800",
+        "def": "0",
+        "kuantitas": 1,
+        "kategori": "Main Deck"
+    },
+    "Mulcharmy Fuwalos": {
+        "tipe": "Effect",
+        "atribut": "WIND",
+        "level_rank": "4",
+        "atk": "100",
+        "def": "600",
+        "kuantitas": 2,
+        "kategori": "Main Deck"
+    },
+    "Mulcharmy Purulia": {
+        "tipe": "Effect",
+        "atribut": "WATER",
+        "level_rank": "4",
+        "atk": "100",
+        "def": "600",
+        "kuantitas": 2,
+        "kategori": "Main Deck"
+    },
+    "Dracotail Lukias": {
+        "tipe": "Effect",
+        "atribut": "EARTH",
+        "level_rank": "4",
+        "atk": "1800",
+        "def": "700",
+        "kuantitas": 3,
+        "kategori": "Main Deck"
+    },
+    "Dracotail Faimena": {
+        "tipe": "Effect",
+        "atribut": "WATER",
+        "level_rank": "5",
+        "atk": "1300",
+        "def": "2500",
+        "kuantitas": 3,
+        "kategori": "Main Deck"
+    },
+    "Bystial Magnamhut": {
+        "tipe": "Effect",
+        "atribut": "DARK",
+        "level_rank": "6",
+        "atk": "2500",
+        "def": "2000",
+        "kuantitas": 1,
+        "kategori": "Main Deck"
+    },
+    "Dracotail Urgula": {
+        "tipe": "Effect",
+        "atribut": "FIRE",
+        "level_rank": "6",
+        "atk": "2400",
+        "def": "1000",
+        "kuantitas": 1,
+        "kategori": "Main Deck"
+    },
+    "Dracotail Pan": {
+        "tipe": "Effect",
+        "atribut": "WIND",
+        "level_rank": "7",
+        "atk": "2700",
+        "def": "1700",
+        "kuantitas": 1,
+        "kategori": "Main Deck"
+    },
+    "Nibiru, the Primal Being": {
+        "tipe": "Effect",
+        "atribut": "LIGHT",
+        "level_rank": "11",
+        "atk": "3000",
+        "def": "600",
+        "kuantitas": 1,
+        "kategori": "Main Deck"
+    },
+    "Branded Fusion": {
+        "tipe": "Spell",
+        "atribut": "Normal",
+        "level_rank": "-",
+        "atk": "-",
+        "def": "-",
+        "kuantitas": 2,
+        "kategori": "Main Deck"
+    },
+    "Ketu Dracotail": {
+        "tipe": "Spell",
+        "atribut": "Normal",
+        "level_rank": "-",
+        "atk": "-",
+        "def": "-",
+        "kuantitas": 3,
+        "kategori": "Main Deck"
+    },
+    "Rahu Dracotail": {
+        "tipe": "Spell",
+        "atribut": "Normal",
+        "level_rank": "-",
+        "atk": "-",
+        "def": "-",
+        "kuantitas": 3,
+        "kategori": "Main Deck"
+    },
+    "Dracotail Flame": {
+        "tipe": "Trap",
+        "atribut": "Normal",
+        "level_rank": "-",
+        "atk": "-",
+        "def": "-",
+        "kuantitas": 1,
+        "kategori": "Main Deck"
+    },
+    "Dracotail Horn": {
+        "tipe": "Trap",
+        "atribut": "Normal",
+        "level_rank": "-",
+        "atk": "-",
+        "def": "-",
+        "kuantitas": 1,
+        "kategori": "Main Deck"
+    },
+    "Dracotail Sting": {
+        "tipe": "Trap",
+        "atribut": "Normal",
+        "level_rank": "-",
+        "atk": "-",
+        "def": "-",
+        "kuantitas": 1,
+        "kategori": "Main Deck"
+    },
+    "Dracotail Gulamel": {
+        "tipe": "Fusion",
+        "atribut": "WATER",
+        "level_rank": "7",
+        "atk": "2800",
+        "def": "2300",
+        "kuantitas": 1,
+        "kategori": "Extra Deck"
+    },
+    "Titaniklad the Ash Dragon": {
+        "tipe": "Fusion",
+        "atribut": "DARK",
+        "level_rank": "8",
+        "atk": "2500",
+        "def": "2500",
+        "kuantitas": 1,
+        "kategori": "Extra Deck"
+    },
+    "Albion the Branded Dragon": {
+        "tipe": "Fusion",
+        "atribut": "DARK",
+        "level_rank": "8",
+        "atk": "2500",
+        "def": "2000",
+        "kuantitas": 1,
+        "kategori": "Extra Deck"
+    },
+    "Mysterion the Dragon Crown": {
+        "tipe": "Fusion",
+        "atribut": "LIGHT",
+        "level_rank": "8",
+        "atk": "3000",
+        "def": "1500",
+        "kuantitas": 1,
+        "kategori": "Extra Deck"
+    },
+    "Mirrorjade the Iceblade Dragon": {
+        "tipe": "Fusion",
+        "atribut": "DARK",
+        "level_rank": "8",
+        "atk": "3000",
+        "def": "2500",
+        "kuantitas": 1,
+        "kategori": "Extra Deck"
+    },
+    "Lubellion the Searing Dragon": {
+        "tipe": "Fusion",
+        "atribut": "LIGHT",
+        "level_rank": "8",
+        "atk": "2500",
+        "def": "3000",
+        "kuantitas": 1,
+        "kategori": "Extra Deck"
+    },
+    "Rindbrumm the Striking Dragon": {
+        "tipe": "Fusion",
+        "atribut": "DARK",
+        "level_rank": "8",
+        "atk": "2500",
+        "def": "2000",
+        "kuantitas": 1,
+        "kategori": "Extra Deck"
+    },
+    "Albion the Sanctifire Dragon": {
+        "tipe": "Fusion",
+        "atribut": "LIGHT",
+        "level_rank": "8",
+        "atk": "3000",
+        "def": "2500",
+        "kuantitas": 1,
+        "kategori": "Extra Deck"
+    },
+    "Khaos Starsource Dragon": {
+        "tipe": "Fusion",
+        "atribut": "LIGHT",
+        "level_rank": "8",
+        "atk": "2500",
+        "def": "2500",
+        "kuantitas": 1,
+        "kategori": "Extra Deck"
+    },
+    "Dracotail Arthalion": {
+        "tipe": "Fusion",
+        "atribut": "EARTH",
+        "level_rank": "8",
+        "atk": "3000",
+        "def": "2500",
+        "kuantitas": 3,
+        "kategori": "Extra Deck"
+    },
+    "Secreterion Dragon": {
+        "tipe": "Fusion",
+        "atribut": "LIGHT",
+        "level_rank": "8",
+        "atk": "3000",
+        "def": "1500",
+        "kuantitas": 1,
+        "kategori": "Extra Deck"
+    },
+    "Predaplant Verte Anaconda": {
+        "tipe": "Link",
+        "atribut": "DARK",
+        "level_rank": "None",
+        "atk": "500",
+        "def": "-",
+        "kuantitas": 1,
+        "kategori": "Extra Deck"
+    },
+    "S:P Little Knight": {
+        "tipe": "Link",
+        "atribut": "DARK",
+        "level_rank": "None",
+        "atk": "1600",
+        "def": "-",
+        "kuantitas": 1,
+        "kategori": "Extra Deck"
+    }
+}
